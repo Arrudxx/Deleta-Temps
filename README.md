@@ -12,7 +12,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   
  <h2 align="center">Projeto</h2>
 
-> O projeto foi feito para uma ajudar em limpar todos os arquivos temporários do PC de forma automatizada em vez da
+> O projeto foi feito para ajudar em limpar todos os arquivos temporários do PC de forma automatizada em vez da
 pesquisa manual de pasta por pasta
 
 - Utilizei a biblioteca "Tkinter" para fazer a interface gráfica do projeto;
